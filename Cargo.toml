@@ -1,0 +1,7 @@
+[package]
+name = "phalanx"
+version = "0.1.0"
+authors = ["Fabian Schuiki <fabian@iis.ee.ethz.ch>", "Florian Zaruba <zarubaf@iis.ee.ethz.ch>"]
+edition = "2018"
+
+[dependencies]
